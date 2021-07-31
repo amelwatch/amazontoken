@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GATEYTOBYJOLBV77ABU7QRRNRDGP4RB4SPZPW23NE4V4G5HEO5CBEXNN"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Amazon Token"
+ORG_URL="https://www.amazon.com/"
+ORG_DESCRIPTION="Amazon Token is the native cryptocurrency token of Amazon.com, Inc., an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. Amazon Token is one of the products in amazon.com’s lineup of solutions designed to accelerate the global adoption of cryptocurrencies as a means of increasing personal control over money, safeguarding user data and protecting users’ identities."
+ORG_TWITTER="@Amazon"
+ORG_LOGO="https://i.ibb.co/QmDbwmd/97474221-112262777157747-7873798062961852416-n.jpg"
+ORG_OFFICIAL_EMAIL="amazontoken@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="AMAZONTOKEN"
+issuer="GATEYTOBYJOLBV77ABU7QRRNRDGP4RB4SPZPW23NE4V4G5HEO5CBEXNN"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="Amazon token"
+desc="Amazon Token is the native cryptocurrency token of Amazon.com, Inc., an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. Amazon Token is one of the products in amazon.com’s lineup of solutions designed to accelerate the global adoption of cryptocurrencies as a means of increasing personal control over money, safeguarding user data and protecting users’ identities."
+conditions="There will only ever be 10.000.000 Amazon Tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset."
+image="https://i.ibb.co/QmDbwmd/97474221-112262777157747-7873798062961852416-n.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+
